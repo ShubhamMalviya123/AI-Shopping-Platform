@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+pydantic
+pillow
+python-multipart
+pytest
+httpx
